@@ -1,0 +1,33 @@
+{
+  "_meta": {
+    "sources": [
+      {
+        "json": "Keab42",
+        "abbreviation": "Brew",
+        "full": "Keab42",
+        "authors": [
+          "Keab42"
+        ],
+        "version": "1.1.0",
+        "url": "https://github.com/Keab42/homebrew",
+        "targetSchema": "1.0.0"
+      }
+    ]
+  },
+  "item": [
+    {
+      "name": "Shoes of Vibram's Warrior Monks",
+      "wondrous": true,
+      "tier": "Major",
+      "rarity": "Very Rare",
+      "reqAttune": "by a Monk",
+      "source": "Keab42",
+      "entries": [
+        "Recovered from the corpse of an elite order of monks that worked for the cult of the Black Earth. A pair of simple shoes made from a dark leather that seems to shift colour to match the terrain. These shoes automatically size themselves to the wearer's feet becoming the most comfortable shoes they've ever worn.",
+        "While wearing these shoes unarmed attacks made with your feet count as magical attacks, In addition, you can move in difficult terrain that is composed of rubble, rocks, or dirt as if it were normal terrain.",
+        "While attuned to these shoes, as a bonus action, you may spend a ki point and select a point within 300 feet that you have either traveled across or can see. You then instantly sink into the ground beneath, or wall next to you and a few moments later, rise up from the target point. Both the starting and ending points must be natural ground or rock walls, not a constructed wall, floor or water, but what lies between them doesn't matter.",
+        ""
+      ]
+    }
+  ]
+}
